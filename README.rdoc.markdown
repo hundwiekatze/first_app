@@ -1,3 +1,11 @@
+# Just a test!
+
+my first application.
+
+(http://www.google.com) [*Searchengine*]
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
